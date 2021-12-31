@@ -26,7 +26,7 @@ go run .
 
 ## 测试用例
 
-测试用例位于 ./my_bmi/bmi_test.go
+测试用例位于 ./my_bmi/bmi_test.go ，用于测试 ./my_bmi/bmi.go 里的方法
 
 ```shell
 cd my_bmi
